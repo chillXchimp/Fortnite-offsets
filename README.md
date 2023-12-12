@@ -1,2 +1,4 @@
 # Fortnite-offsets
-latest updated offsets
+
+Sources | Drivers | Offsets
+https://discord.gg/JvTQQ6bj3e
